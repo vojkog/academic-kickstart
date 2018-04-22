@@ -18,6 +18,11 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
+  course = "Certifications"
+  institution = "certifications"
+  year = 2018 
+
+[[education.courses]]
   course = "Data Science Specialization"
   institution = "John Hopkins University on Coursera"
   year = 2016
