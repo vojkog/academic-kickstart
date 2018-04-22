@@ -10,26 +10,22 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Enterprise IT",
+    "Enterprise content services",
+    "Business Process Management",
+    "Data Science"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Lorem ipsum dolor"
-  institution = "Stanford University"
-  year = 2012
+  course = "Data Science Specialization"
+  institution = "John Hopkins University on Coursera"
+  year = 2016
 
 [[education.courses]]
-  course = "MEng Lorem ipsum dolor"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc Lorem ipsum dolor"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Graduate Engineer of Electrical engineering"
+  institution = "The Faculty of Electrical Engineering, University of Split"
+  year = 1990
  
 +++
 
