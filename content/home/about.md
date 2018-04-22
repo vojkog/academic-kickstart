@@ -13,22 +13,28 @@ weight = 5
     "Enterprise IT",
     "Business Process Management",
     "Data Science",
-    "Enterprise Content Services"       
+    "Enterprise Content Services",
+    "Java Platform"   
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "Certifications"
-  institution = "certifications"
-  year = 2018 
-
-[[education.courses]]
+ [[education.courses]]
   course = "Data Science Specialization"
   institution = "John Hopkins University on Coursera"
   year = 2016
 
 [[education.courses]]
-  course = "Graduate Engineer of Electrical engineering"
+  course = "Big Data"
+  institution = "BerkeleyX through edX"
+  year = 2015 
+
+[[education.courses]]
+  course = "ARIS Train the Trainer Program 4.0"
+  institution = "IDS Scheer AG, Saarbrucken"
+  year = 1998 
+
+[[education.courses]]
+  course = "Graduate Engineer of EE"
   institution = "The Faculty of Electrical Engineering, University of Split"
   year = 1990
  
