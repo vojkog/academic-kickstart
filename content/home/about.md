@@ -24,9 +24,9 @@ weight = 5
   year = 2016
 
 [[education.courses]]
-  course = "Big Data"
-  institution = "BerkeleyX through edX"
-  year = 2015 
+  course = "Alfresco Certified Engineer (ACE)"
+  institution = "Alfresco"
+  year = 2013 
 
 [[education.courses]]
   course = "ARIS Train the Trainer Program 4.0"
