@@ -11,9 +11,9 @@ weight = 5
 [interests]
   interests = [
     "Enterprise IT",
-    "Enterprise content services",
     "Business Process Management",
-    "Data Science"
+    "Data Science",
+    "Enterprise Content Services"       
   ]
 
 # List your qualifications (such as academic degrees).
