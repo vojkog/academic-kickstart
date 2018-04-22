@@ -8,7 +8,7 @@ title = "Projects"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 60
 
 # Content.
 # Display content from the following folder.
@@ -42,3 +42,17 @@ filter_default = 0
 
 +++
 
+### 2008 – “MoRe” ECM
+Software Architect (JEE/GWT)
+### 2007 – Generali d.d. DMS (Alfresco) 
+Software Architect
+### 2005 -	AlfaBPM Eclipse/J2EE 
+Software Architect
+### 2003	CrEIS – National Environmental Information System POC for Ministry of Environment Protection 
+Software Architect
+### 2002	Dynamic Internet Protocolos in Wireless Java for Siemens ICM Munich– (Pilot project) 
+Lead Developer
+### 2001	ARIS XML – SVG viewer 
+Software architect
+### 2000	ARIS/MS Project interface 
+Project manager
