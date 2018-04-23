@@ -1,5 +1,5 @@
 +++
-title = "My Article Name"
+title = "New Web Site"
 date = 2018-04-23T20:28:57+02:00
 draft = false
 
@@ -19,3 +19,4 @@ caption = ""
 preview = true
 
 +++
+In construction, obviously :), please come back shortly!
