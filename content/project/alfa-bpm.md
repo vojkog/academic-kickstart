@@ -1,5 +1,5 @@
 +++
-title = "AlfaBPM Eclipse/J2EE"
+title = "AlfaBPM"
 date = 2005-04-23T21:08:23+02:00
 draft = false
 
@@ -29,3 +29,4 @@ image = ""
 caption = ""
 
 +++
+Eclipse/J2EE

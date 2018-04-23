@@ -1,5 +1,5 @@
 +++
-title = "Generali d.d. DMS"
+title = "Generali DMS"
 date = 2007-04-23T21:09:19+02:00
 draft = false
 
@@ -29,3 +29,4 @@ image = ""
 caption = ""
 
 +++
+Generali D.D.
