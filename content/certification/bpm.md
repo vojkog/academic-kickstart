@@ -20,7 +20,6 @@ caption = ""
 Certification authority: *Signavio*  
 [See certificate](https://mooc.house/verify/xolos-dyroc-lidic-lebyk-mesup)
 
-
 ### "ARIS Train the Trainer Program 4.0"  
 *by IDS Scheer GbmH*, Saarbrucken 1998   
 Certification authority: IDS Scheer GbmH
