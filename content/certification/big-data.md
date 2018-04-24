@@ -17,21 +17,24 @@ caption = ""
 +++
 
 ### "Big Data"
-*BerkeleyX through edX (XSeries certificate)*, Aug 2015  
+*by BerkeleyX through edX (XSeries certificate)*, Aug 2015  
 Certification authority: *edX*  
 License: 3c7b76a543f84c948cbcaf418b67ffdb  
 [See certificate](https://s3.amazonaws.com/verify.edx.org/downloads/4d6c3d2143b54e15a4dee1665416d1c4/Certificate.pdf)
 
 ### "Scalable Machine Learning"
-*BerkeleyX through edX (XSeries certificate)*, Aug 2015 
+*by BerkeleyX through edX (XSeries certificate)*, Aug 2015   
 Certification authority: *edX*  
 License: d4754a9a225f4857a1d4a51995354f01  
 [See certificate](https://s3.amazonaws.com/verify.edx.org/downloads/d4754a9a225f4857a1d4a51995354f01/Certificate.pdf)
 
-### "Introduction to Big Data with Apache Spark" from BerkeleyX through edX 
-License 6f89d8a4f1844ba0a7fa74294bfc84d1 July 2015  
-[See certificate]()
+### "Introduction to Big Data with Apache Spark"
+*by BerkeleyX through edX (XSeries certificate)*, July 2015  
+Certification authority: *edX*  
+License 6f89d8a4f1844ba0a7fa74294bfc84d1    
+[See certificate](https://s3.amazonaws.com/verify.edx.org/downloads/03b59e230f88474fbd7c216bdbd4a62d/Certificate.pdf)
 
-### "Mining Massive Datasets" by Stanford University on Coursera
- December 2014  
-[See certificate]()
+### "Mining Massive Datasets"
+*by Stanford University on Coursera*, December 2014  
+Certification authority: *Coursera Course Certificates*  
+[See certificate](/certificates/mmdsCertificate.pdf)

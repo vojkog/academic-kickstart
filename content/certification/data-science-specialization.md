@@ -61,12 +61,12 @@ License: QEZZM6QMC9
 
 ### "Exploratory Data Analysis" by Johns Hopkins University on Coursera 
 License MRAE64F6TH June 2015  
-[See certificate]()
+[See certificate](https://www.coursera.org/account/accomplishments/records/CwgFWMVWxybyKU3x)
 
 ### "Getting and Cleaning Data" by Johns Hopkins University on Coursera 
 License YYPXM2YQQ9 May 2015  
-[See certificate]()
+[See certificate](https://www.coursera.org/account/accomplishments/records/dnErTczYqCH9T54s)
 
 ### "The Data Scientist’s Toolbox" by Johns Hopkins University on Coursera 
 License MKZNETQSA4 March 2015  
-[See certificate]()
+[See certificate](https://www.coursera.org/account/accomplishments/records/KCt3SWPXVZtJF5cq)
