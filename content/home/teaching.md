@@ -14,11 +14,11 @@ subtitle =  ""
 weight = 60
 
 +++
-*Courses Taught in coopearation with ["Zoraja Consulting"](http://zoraja.hr/training)
+*Courses (co)developed and taught as instructor for ["Zoraja Consulting"](http://zoraja.hr/training)
 ### Using XML in Java Applications
 ### Programming with Java
 ### Implementing Design Patterns in Java
 ### Developing J2EE Web Applications,
 ### Developing J2EE Applications
-### Analyzing and Designing Java OO Solution
+### Analyzing and Designing Java OO Solutions
 

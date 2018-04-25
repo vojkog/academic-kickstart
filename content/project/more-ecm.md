@@ -5,10 +5,10 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["ECM", "ALFRESCO", "BPM", "JAVA"]
+tags = ["ECM", "ALFRESCO", "BPM", "JAVA", "CAMUNDA"]
 
 # Project summary to display on homepage.
-summary = "Software Architect (JEE/GWT)"
+summary = ""
 
 # Optional image to display on homepage.
 image_preview = ""
@@ -29,4 +29,8 @@ image = ""
 caption = ""
 
 +++
-Software Architect (JEE/GWT)
+
+Currently, consultant for   
+[IT SISTEMI − NOVE TEHNOLOGIJE D.O.O.](http://www.itsistemi.com/).    
+For more details about the product I'm working on,   
+please visit [more.itsistemi.com](http://more.itsistemi.com/).

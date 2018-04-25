@@ -247,13 +247,13 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Certifications"
+  url = "#certifications"
   weight = 2
 
 [[menu.main]]
-  name = "Certifications"
-  url = "#certifications"
+  name = "Posts"
+  url = "#posts"
   weight = 3
 
 [[menu.main]]

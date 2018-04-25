@@ -1,14 +1,14 @@
 +++
-title = "AlfaBPM"
+title = "Previous projects"
 date = 2005-04-23T21:08:23+02:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["BPM","JAVA"]
+tags = ["BPM","JAVA", "XML","SVG", "ARIS"]
 
 # Project summary to display on homepage.
-summary = "Software Architect"
+summary = ""
 
 # Optional image to display on homepage.
 image_preview = ""
@@ -29,4 +29,22 @@ image = ""
 caption = ""
 
 +++
-Eclipse/J2EE
+
+### AlfaBPM
+POC: Eclipse/J2EE based BPMN modeler. 
+
+### CrEIS – National Environmental Information System
+POC: for Ministry of Environment Protection, SVG geo-mapping of environmental data.
+
+### Dynamic Internet Protocolos in Wireless Java
+(Pilot project) for Siemens ICM Munich 
+
+### ARIS XML SVG
+Conversion/Visualization of exported "ARIS Toolset" XML models in
+SVG format.
+
+### AlfaBPM
+POC: Eclipse/J2EE based BPMN modeler.
+
+### ARIS MS PROJECT INTERFACE
+Bidirectional interface between Microsoft Project and "ARIS Toolset".

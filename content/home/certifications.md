@@ -8,7 +8,7 @@ title = "Certifications"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 10
 
 # Content.
 # Display content from the following folder.
