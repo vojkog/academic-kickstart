@@ -21,4 +21,5 @@ weight = 60
 ### Developing J2EE Web Applications,
 ### Developing J2EE Applications
 ### Analyzing and Designing Java OO Solutions
+### Apache Maven 101
 
