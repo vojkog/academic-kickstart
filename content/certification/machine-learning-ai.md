@@ -17,7 +17,7 @@ caption = ""
 +++
 
 ### "How Google does Machine Learning"
-*by Google on Coursera*, June 2018  
+*by Google Cloud on Coursera*, June 2018  
 Certification authority: *Coursera*  
 License: MEBTXEX9DCPU  
 [See certificate](https://www.coursera.org/account/accomplishments/verify/MEBTXEX9DCPU)
