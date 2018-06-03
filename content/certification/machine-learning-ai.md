@@ -16,6 +16,12 @@ caption = ""
 
 +++
 
+### "How Google does Machine Learning"
+*by Google on Coursera*, June 2018  
+Certification authority: *Coursera*  
+License: MEBTXEX9DCPU  
+[See certificate](https://www.coursera.org/account/accomplishments/verify/MEBTXEX9DCPU)
+
 
 ### "KIexploRx, Explore Statistics with R"
 *by Karolinska Institutet through edX*, October 2014  
@@ -32,11 +38,6 @@ University of Waikato  April 2014
 Certification authority: *Coursera Course Certificates*  
 [See certificate](/certificates/Coursera_Certificate_v1-97117877275.pdf)
 
-### "Machine Learning" 
-*by Stanford University on Coursera*, December 2011  
-Certification authority: *Coursera Course Certificates*  
-[See certificate](/certificates/ML 22543.pdf)
-
 ### "Computing for Data Analysis" 
 *by John Hopkins University on Coursera*, October 2013    
 Certification authority: *Coursera Course Certificates*  
@@ -45,6 +46,13 @@ Certification authority: *Coursera Course Certificates*
 ### "Quantum Mechanics and Quantum Computation"
 *by University of California, Berkeley on Coursera*, October 2012       
 [See certificate](/certificates/Quantum Mechanics and Quantum.pdf)
+
+
+### "Machine Learning" 
+*by Stanford University on Coursera*, December 2011  
+Certification authority: *Coursera Course Certificates*  
+[See certificate](/certificates/ML 22543.pdf)
+
 
 ### "Introduction to Artificial Intelligence"  
 *by Stanford University on Udacity*, December 2011  
